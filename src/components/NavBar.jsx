@@ -25,7 +25,7 @@ const NavBar = () => {
           onClick={handleClick}
         >
           <li>
-            <Link to="/" className="mainLink">
+            <Link to="/portfolio-sample" className="mainLink">
               Home
             </Link>
           </li>
